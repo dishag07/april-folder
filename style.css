@@ -3,30 +3,32 @@
 
 /* Root variables for color */
 :root {
-    --background: #131313;
+    --background: #ffffff;
     --primary: #e9a6d3;
     --secondary: #e9a6d3;
 }
 
 .bg-hero-image {
-    background-image: url(img/herobackground.jpg);
+    background-image: url(images/therapist.jpg);
     background-position: center;
     font-family: 'Hedvig Letters Serif', serif;
 }
-
-
-.
+#edit {
+    padding-top:25px;
+    margin-top: 30px;
+}
 
 .nav {
     height:4rem;
     width:4rem;
+    text-align: center;
 }
 /* Resetting default styles */
 body {
     font-family: 'Work Sans', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: rgb(28, 28, 28);
+    background-color: rgb(255, 255, 255);
 }
 
     /* Hero banner styling */
